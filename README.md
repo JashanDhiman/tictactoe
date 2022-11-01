@@ -1,3 +1,5 @@
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=JashanDhiman&show_icons=true)
+
 # Nano React App Default Javascript Template
 
 The default template project for [nano-react-app](https://github.com/adrianmcli/nano-react-app).
